@@ -7,7 +7,7 @@ cask "luminest" do
   desc "Fast local photo and video browser for macOS"
   homepage "https://github.com/ouladck/LumiNest"
 
-  app "LumiNest.app"
+  app "LumiNest"
 
   zap trash: [
     "~/Library/Application Support/LumiNest",
