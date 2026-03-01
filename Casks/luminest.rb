@@ -1,6 +1,6 @@
 cask "luminest" do
   version "1.0.0-RC"
-  sha256 "METS_ICI_LE_SHA256"
+  sha256 "cb5f6433510c06c3b1830855316dc4c07d6bbbb82a29ae7fa525fa5d722b3e97"
 
   url "https://github.com/ouladck/LumiNest/releases/download/v#{version}/LumiNest-#{version}.zip"
   name "LumiNest"
